@@ -1,0 +1,22 @@
+h2 {
+    color: #ffdab9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 48px;
+
+}
+
+.box {
+    background-color: #fffacd;
+    border: 2px;
+}
+
+.float-left {
+    float: left;
+}
+
+.button {
+    float: right;
+}
+.number {
+    
+}
